@@ -21,6 +21,6 @@ st.image("./images/home.jpg")
 
 st.markdown(""" 
 <br/><br/>
-<p align="center"> Developed with ❤ by Brendan, Aditya & Candida</p>
+<p align="center"> Developed with ❤ by Brendan, Candida & Aditya</p>
 
 """, True)
