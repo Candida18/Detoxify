@@ -10,7 +10,7 @@ from nltk.stem.porter import PorterStemmer
 st.set_page_config(page_title="Detoxify", page_icon="🤝")
 
 tfidf = pickle.load(open('vectorizer.pkl','rb'))
-model = pickle.load(open('clf_model.pkl','rb'))
+model = pickle.load(open('model-etc.pkl','rb'))
 
 ps = PorterStemmer()
 
